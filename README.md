@@ -94,7 +94,7 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png
+![plot of chunk unnamed-chunk-2](https://camo.githubusercontent.com/49c1104e6fd7ff70a905028f6fc0d3958966c4c7/68747470733a2f2f643339367175737a6134306f72632e636c6f756466726f6e742e6e65742f6578646174612f4350312f457844617461435031506c6f74312e706e67)
 
 
 ### Plot 2
