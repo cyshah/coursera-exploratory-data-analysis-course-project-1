@@ -99,15 +99,15 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 2
 
-https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png
+![plot of chunk unnamed-chunk-3] (https://camo.githubusercontent.com/52d6b5b6a80fb2afca5024903371d3a83fdd2e0f/68747470733a2f2f643339367175737a6134306f72632e636c6f756466726f6e742e6e65742f6578646174612f4350312f457844617461435031506c6f74322e706e67)
 
 
 ### Plot 3
 
-https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png 
+![plot of chunk unnamed-chunk-4] (https://camo.githubusercontent.com/0451207cd77f5c09b6e9478548764c1095f97ecb/68747470733a2f2f643339367175737a6134306f72632e636c6f756466726f6e742e6e65742f6578646174612f4350312f457844617461435031506c6f74332e706e67)
 
 
 ### Plot 4
 
-https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png 
+![plot of chunk unnamed-chunk-2] (https://camo.githubusercontent.com/88ba9bce0cb5f925a41f05142b86a56a58539515/68747470733a2f2f643339367175737a6134306f72632e636c6f756466726f6e742e6e65742f6578646174612f4350312f457844617461435031506c6f74342e706e67)
 
